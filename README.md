@@ -1,2 +1,2 @@
 # nvsci1
-first repository for nvsci
+first repository for nvsci project
